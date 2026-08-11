@@ -3,13 +3,14 @@
   "packs": [
     {
       "id": "packprueba",
-      "name": "...",
-      "author": "...",
-      "description": "...",
-      "tags": ["..."],
-      "teamsCount": 0,
-      "sizeKB": 0,
-      "addedDate": "..."
+      "name": "Pack de prueba",
+      "author": "seunaleyendagame",
+      "description": "Pack para probar el flujo de importación",
+      "tags": ["prueba"],
+      "teamsCount": 20,
+      "sizeKB": 5,
+      "addedDate": "2026-08-11",
+      "file": "packs/packprueba.json"
     }
   ]
 }
