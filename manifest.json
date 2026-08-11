@@ -11,6 +11,28 @@
       "sizeKB": 5,
       "addedDate": "2026-08-11",
       "file": "packs/packprueba.json"
+    },
+    {
+      "id": "packprueba2",
+      "name": "Historia Rápida",
+      "author": "seunaleyendagame",
+      "description": "Pack de prueba con tag historia",
+      "tags": ["prueba", "historia"],
+      "teamsCount": 15,
+      "sizeKB": 5,
+      "addedDate": "2026-08-11",
+      "file": "packs/packprueba2.json"
+    },
+    {
+      "id": "packprueba3",
+      "name": "Mapas y Geografía",
+      "author": "seunaleyendagame",
+      "description": "Pack de prueba con tag geografia",
+      "tags": ["geografia"],
+      "teamsCount": 10,
+      "sizeKB": 5,
+      "addedDate": "2026-08-11",
+      "file": "packs/packprueba3.json"
     }
   ]
 }
