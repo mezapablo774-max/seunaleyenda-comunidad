@@ -13,7 +13,7 @@
       "file": "packs/packprueba.json"
     },
     {
-      "id": "packprueba2",
+      "id": "packdeprueba2",
       "name": "Historia Rápida",
       "author": "seunaleyendagame",
       "description": "Pack de prueba con tag historia",
@@ -24,7 +24,7 @@
       "file": "packs/packprueba2.json"
     },
     {
-      "id": "packprueba3",
+      "id": "packdeprueba3",
       "name": "Mapas y Geografía",
       "author": "seunaleyendagame",
       "description": "Pack de prueba con tag geografia",
