@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "liga-ejemplo-2026",
+      "name": "Liga Ejemplo 2026",
+      "author": "usuario-github",
+      "description": "Pack de ejemplo con los equipos de la Liga Ejemplo, temporada 2026.",
+      "tags": ["ejemplo", "2026"],
+      "file": "packs/liga-ejemplo-2026.json",
+      "teamsCount": 8,
+      "sizeKB": 360,
+      "addedDate": "2026-08-11",
+      "formatVersion": 1
+    }
+  ]
+}
