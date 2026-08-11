@@ -21,7 +21,7 @@
       "teamsCount": 15,
       "sizeKB": 5,
       "addedDate": "2026-08-11",
-      "file": "packs/packprueba2.json"
+      "file": "packs/packdeprueba2.json"
     },
     {
       "id": "packdeprueba3",
@@ -32,7 +32,7 @@
       "teamsCount": 10,
       "sizeKB": 5,
       "addedDate": "2026-08-11",
-      "file": "packs/packprueba3.json"
+      "file": "packs/packdeprueba3.json"
     }
   ]
 }
