@@ -18,3 +18,12 @@ jobs:
 
       - name: Validar manifest.json y packs
         run: node scripts/validate-manifest.js
+
+      # Fase 5: paso aparte e independiente de "Validar manifest.json y
+      # packs" -no lo toca, así que no hay riesgo de romper esa lógica-.
+      # Cuenta, por autor, cuántos packs tienen addedDate en los últimos
+      # 7 días y falla el check si alguien supera el límite (ver
+      # scripts/validate-author-limit.js para el detalle y el número
+      # exacto, hoy MAX_PACKS_PER_AUTHOR_PER_WEEK = 3).
+      - name: Límite de packs por autor por semana
+        run: node scripts/validate-author-limit.js
