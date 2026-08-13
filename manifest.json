@@ -11,6 +11,39 @@
       "sizeKB": 5,
       "addedDate": "2026-08-12",
       "file": "packs/Base de datos 2026.json"
+    },
+    {
+      "id": "packprueba",
+      "name": "Pack de prueba",
+      "author": "seunaleyendagame",
+      "description": "Pack para probar el flujo de importación",
+      "tags": ["prueba"],
+      "teamsCount": 20,
+      "sizeKB": 5,
+      "addedDate": "2026-08-11",
+      "file": "packs/packprueba.json"
+    },
+    {
+      "id": "packdepruebda2",
+      "name": "Historia Rápida",
+      "author": "seunaleyendagame",
+      "description": "Pack de prueba con tag historia",
+      "tags": ["prueba", "historia"],
+      "teamsCount": 15,
+      "sizeKB": 5,
+      "addedDate": "2026-08-11",
+      "file": "packs/packdepruebda2.json"
+    },
+    {
+      "id": "packdepruebda3",
+      "name": "Mapas y Geografía",
+      "author": "seunaleyendagame",
+      "description": "Pack de prueba con tag geografía",
+      "tags": ["geografía"],
+      "teamsCount": 10,
+      "sizeKB": 5,
+      "addedDate": "2026-08-11",
+      "file": "packs/packdepruebda3.json"
     }
   ]
 }
