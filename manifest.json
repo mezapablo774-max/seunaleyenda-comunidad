@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "basededatos2026",
+      "name": "Pack de datos 2026",
+      "author": "pablo",
+      "description": "Pack de la comunidad",
+      "tags": ["2026"],
+      "teamsCount": 2200,
+      "sizeKB": 5,
+      "addedDate": "2026-08-12",
+      "file": "packs/basededatos2026.json",
+      "formatVersion": "1.0"
+    }
+  ]
+}
